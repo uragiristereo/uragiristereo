@@ -3,6 +3,7 @@
 - 20 (he/him)
 - Learning Android development
 - also experienced in Delphi7 & Python
+- Fully devoted [Roselia](https://bandori.fandom.com/wiki/Roselia) fan
 
 <!--
 **uragiristereo/uragiristereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
