@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 20 (he/him)
+- Learning Android development
+- also experienced in Delphi7 & Python
+
 <!--
 **uragiristereo/uragiristereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=uragiristereo&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uragiristereo&langs_count=10&layout=compact&theme=tokyonight)
