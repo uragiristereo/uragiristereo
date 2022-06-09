@@ -1,9 +1,16 @@
 ### Hi there 👋
 
 - 20 (he/him)
-- Learning Android development
-- also experienced in Delphi7 & Python
+- Learning Android development (Kotlin)
+- Also experienced in Python, Delphi 7, and Go
 - Fully devoted [Roselia](https://bandori.fandom.com/wiki/Roselia) fan
+
+<p align="left">
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="36" height="36" alt="Roselia" /></a>
+    <a href="https://bandori.fandom.com/wiki/Roselia" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/bandori/images/f/fd/Band_5.svg" width="36" height="36" alt="Roselia" /></a>
+</p>
+                    
 
 <!--
 **uragiristereo/uragiristereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Dynamic name](https://github-readme-stats.vercel.app/api?username=uragiristereo&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uragiristereo&langs_count=10&layout=compact&theme=tokyonight)
