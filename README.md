@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 20 (he/him)
+- 21 (he/him)
 - Learning Android development (Kotlin)
 - Also experienced in Python, Delphi 7, and Go
 - Fully devoted [Roselia](https://bandori.fandom.com/wiki/Roselia) fan
