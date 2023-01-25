@@ -1,13 +1,17 @@
 ### Hi there 👋
 
 - 21 (he/him)
-- Learning Android development (Kotlin)
-- Also experienced in Python, Delphi 7, and Go
+- Primarily doing Native Android Development
+- Loves Jetpack Compose 🚀
+- Also experienced in:
+  - Web Back-end Development (Python & Go)
+  - Desktop Development (Delphi 7)
 - Fully devoted [Roselia](https://bandori.fandom.com/wiki/Roselia) fan
 
 <p align="left">
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
     <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" width="36" height="36" alt="Roselia" /></a>
+    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://developer.android.com/images/spot-icons/jetpack-compose.svg" width="36" height="36" alt="Jetpack Compose" /></a>
     <a href="https://bandori.fandom.com/wiki/Roselia" target="_blank" rel="noreferrer"><img src="https://static.wikia.nocookie.net/bandori/images/f/fd/Band_5.svg" width="36" height="36" alt="Roselia" /></a>
 </p>
                     
