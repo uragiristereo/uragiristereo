@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 21 (he/him)
 - Primarily doing Native Android Development
 - Loves Jetpack Compose 🚀
 - Also experienced in:
-  - Web Back-end Development (Python & Go)
+  - Web Back-end Development: Flask (Python), Gin (Go) & Ktor (Kotlin)
   - Desktop Development (Delphi 7)
 - Fully devoted [Roselia](https://bandori.fandom.com/wiki/Roselia) fan
 
