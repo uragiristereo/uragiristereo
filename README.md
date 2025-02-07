@@ -1,6 +1,6 @@
 ### こんにちは！
 
-Native Android Developer & Jetpack Compose advocate.
+Native Android & Kotlin Multiplatform Developer.
 
 <p align="left">
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Kotlin_Icon_2021.svg" width="36" height="36" alt="Kotlin" /></a>
