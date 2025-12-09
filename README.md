@@ -5,7 +5,7 @@ Native Android & Kotlin Multiplatform Developer.
 <p align="left">
     <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/images/brand/android-head_3D.svg" width="36" height="36" alt="Android Developers" /></a>
     <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://developer.android.com/static/images/picto-icons/kmp.svg" width="36" height="36" alt="Kotlin" /></a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/compose-multiplatform/awesome/refs/heads/main/logo.svg" width="36" height="36" alt="Compose" /></a>
+    <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"><img src="https://kotlinlang.org/images/case-studies/compose-multiplatform.svg" width="36" height="36" alt="Compose" /></a>
 </p>                   
 
 <!--
